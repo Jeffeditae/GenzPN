@@ -11,3 +11,4 @@ payload:
   - '+.speedtest.telstra.com'
   - '+.speedtest.xfinity.com'
   - '+.speedtest.googlefiber.net'
+  - '+.speedtest.org'

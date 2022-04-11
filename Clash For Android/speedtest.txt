@@ -12,3 +12,6 @@ payload:
   - '+.speedtest.xfinity.com'
   - '+.speedtest.googlefiber.net'
   - '+.speedtest.org'
+  - '+.speedcheck.org'
+  - '+.speedof.me'
+  - '+.speedtest.vnpt.vn'
